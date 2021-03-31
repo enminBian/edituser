@@ -1,0 +1,16 @@
+References:
+
+Link:
+https://forums.codewalkers.com/php-coding-7/redirect-user-to-different-pages-on-firsttime-login-1180298.html
+http://www.phpweblog.net/WEB-zhenggb/archive/2009/04/16/6429.html
+http://www.w3school.com.cn/php/php_sessions.asp
+https://stackoverflow.com/questions/7400474/destroy-session-but-keep-one-variable-set
+http://phppot.com/php/user-login-session-timeout-logout-in-php/
+http://thisinterestsme.com/expire-php-sessions/
+
+The first four websites are all about sessions including one Chinese website. I used session to write the part 2 and 3 but it doesn’t work. So I tried to use database to store the data instead which I didn’t use the reference so I do not have the reference about the database. They are the same way to me. Just store the data in different places. I tried the last two references to write about the time task but it didn’t work. I think the format of the time is incorrect so I just leave it there.
+
+Username: xu 
+Password: 123456
+
+Link to the repo:
